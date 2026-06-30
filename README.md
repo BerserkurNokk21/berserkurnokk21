@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Oscar%20Peris%20Espejo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20·%20Database%20Developer%20·%20ETL%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/BerserkurNokk21">
@@ -150,8 +151,8 @@ Tobalcaide (TNEXT)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BerserkurNokk21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerserkurNokk21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" width="48%" />
+<img src="https://github-readme-stats-iota-weld-78.vercel.app/api?username=BerserkurNokk21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" width="48%" />
+<img src="https://github-readme-stats-iota-weld-78.vercel.app/api/top-langs/?username=BerserkurNokk21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" width="48%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BerserkurNokk21&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="98%" />
 
@@ -163,7 +164,7 @@ Tobalcaide (TNEXT)
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BerserkurNokk21&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy-red-ten.vercel.app/?username=BerserkurNokk21&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
