@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- Replace YOUR_GITHUB_USERNAME everywhere in this file with your actual GitHub username -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Oscar%20Peris%20Espejo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20·%20Database%20Developer%20·%20ETL%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/BerserkurNokk21">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Game+Developer+%7C+Unity+%2F+C%23;Database+%26+ETL+Developer+%7C+PostgreSQL;Building+games+%26+robust+data+pipelines" alt="Typing SVG" />
 </a>
 
@@ -79,7 +77,7 @@ I'm a Spain-based developer working at the intersection of **game development** 
 | Stack | C#, Unity |
 | Scale | Personal / Solo Projects |
 | Impact | Game design & mechanics exploration |
-| Repository | [View on GitHub](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories&q=&type=&language=c%23) |
+| Repository | [View on GitHub](https://github.com/BerserkurNokk21?tab=repositories&q=&type=&language=c%23) |
 
 A collection of personal Unity projects exploring gameplay mechanics, prototyping, and interactive systems built from the ground up in C#.
 
@@ -90,7 +88,7 @@ A collection of personal Unity projects exploring gameplay mechanics, prototypin
 | Stack | Python, Flask |
 | Scale | Internal tools / APIs |
 | Impact | Backend services & automation |
-| Repository | [View on GitHub](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories&q=flask&type=&language=python) |
+| Repository | [View on GitHub](https://github.com/BerserkurNokk21?tab=repositories&q=flask&type=&language=python) |
 
 Lightweight APIs and backend tools built with Flask, designed to support data workflows and internal automation needs.
 
@@ -101,7 +99,7 @@ Lightweight APIs and backend tools built with Flask, designed to support data wo
 | Stack | Python, PostgreSQL |
 | Scale | Enterprise data pipelines |
 | Impact | Data transformation, loading & integration |
-| Repository | [View on GitHub](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories&q=etl&type=&language=) |
+| Repository | [View on GitHub](https://github.com/BerserkurNokk21?tab=repositories&q=etl&type=&language=) |
 
 Scripts and pipelines for extracting, transforming, and loading data across systems, with a focus on PostgreSQL performance and reliability.
 
@@ -112,7 +110,7 @@ Scripts and pipelines for extracting, transforming, and loading data across syst
 | Stack | Various |
 | Scale | Varies |
 | Impact | See individual repositories |
-| Repository | [View all repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories) |
+| Repository | [View all repositories](https://github.com/BerserkurNokk21?tab=repositories) |
 
 A broader collection of additional repositories, experiments, and contributions worth exploring.
 
@@ -152,10 +150,10 @@ Tobalcaide (TNEXT)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=BerserkurNokk21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerserkurNokk21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="98%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BerserkurNokk21&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="98%" />
 
 </div>
 
@@ -165,7 +163,7 @@ Tobalcaide (TNEXT)
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=BerserkurNokk21&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -200,7 +198,7 @@ Tobalcaide (TNEXT)
 <a href="https://www.linkedin.com/in/oscar-peris-espejo-386370360">
   <img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/BerserkurNokk21">
   <img src="https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://portfolio-brown-alpha-5gusayizuc.vercel.app/">
