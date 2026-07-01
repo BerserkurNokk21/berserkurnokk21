@@ -116,6 +116,13 @@ Scripts and pipelines for extracting, transforming, and loading data across syst
 A broader collection of additional repositories, experiments, and contributions worth exploring.
 
 ---
+### 📜 Certifications
+
+<p align="left">
+  <a href="https://www.hackerrank.com/certificates/2880dc0e391a">
+    <img src="https://img.shields.io/badge/SQL_(Basic)-A78BFA?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 
 ### 💼 Work Experience
 
