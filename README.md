@@ -146,6 +146,7 @@ Working with PostgreSQL databases, developing ETL processes for data transformat
 Universidad Florida Universitaria
 
 <img src="https://img.shields.io/badge/Game%20Design-A78BFA?style=flat-square&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend%20Developer-A78BFA?style=flat-square&logo=unity&logoColor=white" />
 
 **Higher Technician in Network Systems Administration (ASIR)**
 Tobalcaide (TNEXT)
