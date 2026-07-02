@@ -89,7 +89,6 @@ A collection of personal Unity projects exploring gameplay mechanics, prototypin
 | Stack | Python, Flask |
 | Scale | Internal tools / APIs |
 | Impact | Backend services & automation |
-| Repository | [View on GitHub](https://github.com/BerserkurNokk21?tab=repositories&q=flask&type=&language=python) |
 
 Lightweight APIs and backend tools built with Flask, designed to support data workflows and internal automation needs.
 
@@ -100,21 +99,14 @@ Lightweight APIs and backend tools built with Flask, designed to support data wo
 | Stack | Python, PostgreSQL |
 | Scale | Enterprise data pipelines |
 | Impact | Data transformation, loading & integration |
-| Repository | [View on GitHub](https://github.com/BerserkurNokk21?tab=repositories&q=etl&type=&language=) |
 
 Scripts and pipelines for extracting, transforming, and loading data across systems, with a focus on PostgreSQL performance and reliability.
 
-#### 📌 More Projects
+#### 🎮 Portfolio
 
-| Attribute | Detail |
+| Portfolio | Access |
 |---|---|
-| Stack | Various |
-| Scale | Varies |
-| Impact | See individual repositories |
-| Repository | [View all repositories](https://github.com/BerserkurNokk21?tab=repositories) |
-
-A broader collection of additional repositories, experiments, and contributions worth exploring.
-
+| Portfolio | [Vercel](https://portfolio-brown-alpha-5gusayizuc.vercel.app/) |
 ---
 ### 📜 Certifications
 
