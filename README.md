@@ -135,7 +135,9 @@ Working with PostgreSQL databases, developing ETL processes for data transformat
 ### 🎓 Education
 
 **Bachelor's Degree in Videogame Design and Development**
-<img src="https://raw.githubusercontent.com/BerserkurNokk21/BerserkurNokk21/main/florida_universitaria.png" width="24" align="left" style="margin-right: 8px"/>
+<a href="https://www.floridauniversitaria.es/">
+<img src="https://raw.githubusercontent.com/BerserkurNokk21/BerserkurNokk21/main/florida_universitaria.png" width="50" align="left" style="margin-right: 8px"/>
+</a>
 **Universidad Florida Universitaria**
 
 <img src="https://img.shields.io/badge/Game%20Design-A78BFA?style=flat-square&logo=unity&logoColor=white" />
@@ -144,7 +146,9 @@ Working with PostgreSQL databases, developing ETL processes for data transformat
 <br/>
 
 **Higher Technician in Network Systems Administration (ASIR)**
-<img src="https://raw.githubusercontent.com/BerserkurNokk21/BerserkurNokk21/main/tnext.png" width="24" align="left" style="margin-right: 8px"/>
+<a href="https://www.tnext.es/">
+<img src="https://raw.githubusercontent.com/BerserkurNokk21/BerserkurNokk21/main/tnext.png" width="50" align="left" style="margin-right: 8px"/>
+</a>
 **Tobalcaide (TNEXT)**
 
 <img src="https://img.shields.io/badge/Systems%20Administration-A78BFA?style=flat-square&logo=linux&logoColor=white" />
