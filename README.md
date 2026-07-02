@@ -139,11 +139,17 @@ Universidad Florida Universitaria
 
 <img src="https://img.shields.io/badge/Game%20Design-A78BFA?style=flat-square&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/Backend%20Developer-A78BFA?style=flat-square&logo=unity&logoColor=white" />
+<a href="https://www.floridauniversitaria.es/">
+  <img src="https://img.shields.io/badge/Universidad%20Florida%20Universitaria-A78BFA?style=for-the-badge&logo=data:image/svg+xml;base64,TU_LOGO_AQUI&logoColor=white" />
+</a>
 
 **Higher Technician in Network Systems Administration (ASIR)**
 Tobalcaide (TNEXT)
 
 <img src="https://img.shields.io/badge/Systems%20Administration-A78BFA?style=flat-square&logo=linux&logoColor=white" />
+<a href="https://www.tnext.es/">
+  <img src="https://img.shields.io/badge/Universidad%20Tobalcaide%20-TNEXT-A78BFA?style=for-the-badge&logo=data:image/svg+xml;base64,TU_LOGO_AQUI&logoColor=white" />
+</a>
 
 ---
 
