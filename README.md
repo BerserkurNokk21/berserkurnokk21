@@ -28,31 +28,37 @@ I'm a Spain-based developer working at the intersection of **game development** 
 **Languages**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,py" />
+  <img src="https://skillicons.dev/icons?i=cs,py,bash" />
 </p>
 
 **Game Development**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity" />
+  <img src="https://skillicons.dev/icons?i=unity,godot,unreal" />
 </p>
 
 **Backend**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flask" />
+  <img src="https://skillicons.dev/icons?i=flask,anaconda,dotnet" />
+</p>
+
+**Server**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,powershell,aws" />
 </p>
 
 **Databases**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 </p>
 
 **Tools & IDEs**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rider,pycharm,git,github" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rider,pycharm,git,github,gitlab" />
 </p>
 
 ---
