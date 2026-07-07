@@ -213,16 +213,16 @@ Working with PostgreSQL databases, developing ETL processes for data transformat
 <div align="center">
 
 <a href="mailto:operisespejo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 <a href="https://www.linkedin.com/in/oscar-peris-espejo-386370360">
-  <img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://github.com/BerserkurNokk21">
-  <img src="https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 <a href="https://portfolio-brown-alpha-5gusayizuc.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
 </a>
 
 </div>
