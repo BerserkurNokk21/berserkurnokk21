@@ -117,11 +117,12 @@ Scripts and pipelines for extracting, transforming, and loading data across syst
 ### 📜 Certifications
 
 <p align="left">
+  <a href="https://www.freecodecamp.org/certification/berserkurnokk/python-v9">
+    <img src="https://img.shields.io/badge/Python_Developer-A78BFA?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+  </a>
   <a href="https://www.hackerrank.com/certificates/2880dc0e391a">
     <img src="https://img.shields.io/badge/SQL_(Basic)-A78BFA?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-</p>
-<p align="left">
   <a href="https://www.hackerrank.com/certificates/iframe/79fd391765be">
     <img src="https://img.shields.io/badge/SQL_(Intermediate)-A78BFA?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
