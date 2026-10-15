@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E2E,100:A78BFA&height=190&section=header&text=Oscar%20Peris%20Espejo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Gameplay%20Systems%20Programmer%20%C2%B7%20Data%20%26%20ETL%20Engineer&descAlignY=56&descSize=17" width="100%"/>
+<img src="./assets/header.svg" width="100%" alt="Oscar Peris Espejo — Gameplay Systems Programmer · Data & ETL Engineer"/>
 
 <a href="https://github.com/BerserkurNokk21">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Gameplay+%26+systems+in+Unity+%2F+C%23;ETL+pipelines+%26+PostgreSQL+in+production;Python+%C2%B7+FastAPI+%C2%B7+Linux;Games+and+data%3A+same+discipline%2C+different+output" alt="Typing SVG" />
@@ -171,5 +171,5 @@ Data-quality service that audits client databases, flags inconsistent or malform
 <br/>
 <sub>Open to <b>gameplay/systems programming</b> and <b>backend & data engineering</b> roles — <a href="mailto:operisespejo@gmail.com">let's talk</a>.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:1E1E2E&height=100&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%" alt=""/>
 </div>
