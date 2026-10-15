@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1E1E2E"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <style>
+      .t { font: 700 46px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #fff; }
+      .s { font: 500 19px 'Fira Code', Consolas, 'Courier New', monospace; fill: #EDE9FE; letter-spacing: .5px; }
+      .fade { opacity: 0; animation: in 1.2s ease-out forwards; }
+      .fade2 { animation-delay: .4s; }
+      .wave { animation: drift 8s ease-in-out infinite alternate; }
+      @keyframes in { to { opacity: 1; } }
+      @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-40px); } }
+    </style>
+  </defs>
+  <g class="wave" opacity=".45">
+    <path d="M0 0H1240V175C1100 212 960 160 800 182C640 204 520 218 360 200C220 184 110 196 0 214Z" fill="#A78BFA"/>
+  </g>
+  <path d="M0 0H1200V160C1060 205 930 140 780 165C620 192 520 215 360 185C220 160 110 175 0 200Z" fill="url(#bg)"/>  <text x="600" y="92" text-anchor="middle" class="t fade">Oscar Peris Espejo</text>
+  <text x="600" y="132" text-anchor="middle" class="s fade fade2">Gameplay Systems Programmer · Data &amp; ETL Engineer</text>
+</svg>
